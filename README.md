@@ -8,3 +8,10 @@
 - Fork esse repositório e não altere no nome do repositório
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
+
+  # Valdir Gaudencio
+
+  - [SHayanne, Luana, Pedro Ferraz e Valdir](https://trello.com/b/gUtHY6Ln/trabalho-maneiro)
+  - [Individual](https://trello.com/b/UlwarPWA/atividadividual)
+  - [Yuri, Caio Barreto, João Antônio, Lucas Pontual e Valdir](https://trello.com/b/5enRkCmQ/gerenciamento-de-entregas-para-1c)
+  - [Caio Barreto, Yuri, Heitor, David, Lucas Kiemle](https://www.canva.com/design/DAGEjaXxHqU/f4kD7Ghe-EfPqTGlCe5M9g/edit?utm_content=DAGEjaXxHqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
