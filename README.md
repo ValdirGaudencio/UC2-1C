@@ -15,3 +15,5 @@
   - [Individual](https://trello.com/b/UlwarPWA/atividadividual)
   - [Yuri, Caio Barreto, João Antônio, Lucas Pontual e Valdir](https://trello.com/b/5enRkCmQ/gerenciamento-de-entregas-para-1c)
   - [Caio Barreto, Yuri, Heitor, David, Lucas Kiemle](https://www.canva.com/design/DAGEjaXxHqU/f4kD7Ghe-EfPqTGlCe5M9g/edit?utm_content=DAGEjaXxHqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ 
+  - [Miro, individual](https://miro.com/app/board/uXjVKGOdg_c=/?share_link_id=35584917114)
