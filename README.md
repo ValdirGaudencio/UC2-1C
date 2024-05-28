@@ -19,3 +19,5 @@
   - [Miro, individual](https://miro.com/app/board/uXjVKGOdg_c=/?share_link_id=35584917114)
  
   -  [Emprego dos sonhos](https://docs.google.com/document/d/1h3e0gSJxqg84bPm6oWz4Vu6BFINIJrKtxCMlBUkR05k/edit?usp=sharing)
+ 
+  -  [Atividade da planilha](https://docs.google.com/spreadsheets/d/15r5nhLpCM5i1E_Zci2s4DUmjR404hpoycgde-5hmax4/edit?usp=sharing)
